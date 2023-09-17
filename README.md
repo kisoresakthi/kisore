@@ -1,2 +1,2 @@
 # kisore
-i made my own website in pacficcreation
+i made my own website with the help of pacficcreation
